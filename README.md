@@ -1,1 +1,1 @@
-# Snippets
+Added WordPress snippets
